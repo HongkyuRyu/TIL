@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "955ccc1a371462a3",
+        "id": "e698a5082ceaca83",
         "type": "tabs",
         "children": [
           {
-            "id": "57efa68b018b0f89",
+            "id": "66f467f0d1c9862e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,10 +146,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "57efa68b018b0f89",
+  "active": "66f467f0d1c9862e",
   "lastOpenFiles": [
-    "template/무제 파일.md",
+    "무제 파일 1.canvas",
     "SeSAC 3주차/파이썬 데이터 처리 프로그래밍 3일차.md",
+    "무제 파일.canvas",
+    "template/무제 파일.md",
     "template",
     "SeSAC 3주차"
   ]
