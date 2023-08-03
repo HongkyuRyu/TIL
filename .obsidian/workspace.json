@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "822ccb0538ec1987",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SeSAC 3주차/파이썬 데이터 처리 프로그래밍 4일차.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SeSAC 3주차/파이썬 데이터 처리 프로그래밍 3일차.md",
+                "file": "SeSAC 3주차/파이썬 데이터 처리 프로그래밍 4일차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SeSAC 3주차/파이썬 데이터 처리 프로그래밍 3일차.md",
+                "file": "SeSAC 3주차/파이썬 데이터 처리 프로그래밍 4일차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SeSAC 3주차/파이썬 데이터 처리 프로그래밍 3일차.md"
+                "file": "SeSAC 3주차/파이썬 데이터 처리 프로그래밍 4일차.md"
               }
             }
           }
@@ -146,10 +159,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "66f467f0d1c9862e",
+  "active": "822ccb0538ec1987",
   "lastOpenFiles": [
-    "무제 파일 1.canvas",
     "SeSAC 3주차/파이썬 데이터 처리 프로그래밍 3일차.md",
+    "SeSAC 3주차/파이썬 데이터 처리 프로그래밍 4일차.md",
+    "무제 파일 1.canvas",
     "무제 파일.canvas",
     "template/무제 파일.md",
     "template",
