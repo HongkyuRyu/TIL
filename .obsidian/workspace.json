@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1c52868b621cbd04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "전공면접 준비(매주 목요일 스터디)/네트워크/네트워크.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SeSAC 3주차/파이썬 데이터 처리 프로그래밍 5일차.md",
+                "file": "전공면접 준비(매주 목요일 스터디)/네트워크/네트워크.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SeSAC 3주차/파이썬 데이터 처리 프로그래밍 5일차.md",
+                "file": "전공면접 준비(매주 목요일 스터디)/네트워크/네트워크.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SeSAC 3주차/파이썬 데이터 처리 프로그래밍 5일차.md"
+                "file": "전공면접 준비(매주 목요일 스터디)/네트워크/네트워크.md"
               }
             }
           }
@@ -159,11 +171,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "822ccb0538ec1987",
+  "active": "21c463091216af3a",
   "lastOpenFiles": [
-    "SeSAC 3주차/파이썬 데이터 처리 프로그래밍 4일차.md",
-    "SeSAC 3주차/파이썬 데이터 처리 프로그래밍 5일차.md",
     "SeSAC 3주차/파이썬 데이터 처리 프로그래밍 3일차.md",
+    "SeSAC 3주차/파이썬 데이터 처리 프로그래밍 4일차.md",
+    "전공면접 준비(매주 목요일 스터디)/네트워크/네트워크.md",
+    "전공면접 준비(매주 목요일 스터디)/네트워크",
+    "전공면접 준비(매주 목요일 스터디)",
+    "SeSAC 3주차/파이썬 데이터 처리 프로그래밍 5일차.md",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
     "template/무제 파일.md",
